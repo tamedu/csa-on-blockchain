@@ -1,6 +1,7 @@
 ## Proposal for BSIC - Decentralized Impact Incubator
 * https://www.blockchainforsocialimpact.com/
 * https://bsicimpactincubator.slack.com/
+* https://joshpitzalis.svbtle.com/foodmiles
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
@@ -40,11 +41,11 @@ Those principles show that CSA share same characteristics with blockchain:
 
 I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
 
-## What I'm looking for?
+## What we are looking for?
 
 I'm happy to listen to feedbacks from everybody:
 * To improve and evolve FoodMiles propsal
 * To understand problems CSA's comsumers, producers and communities (as a whole) are facing right now
 * To come up with a better solutions that can apply in reallife situations to help people produce and comsume food healthy, effeciently, social friendly and environment friendly.
 
-Please discuss and feedback. We also looking for team-members with any skills who interested in the proposal / have knowledge or experience in CSA / understanding both advantage and limitation of blockchain to join us to build a practical platform.
+We also looking for team-members who interested in our proposal with any but not limited to following skills/experiences: design, supply chain, small-scale farming, financing to join us to build a practical platform. Understanding advantage/limitation of blockchain will be an advantage.
