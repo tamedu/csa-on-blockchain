@@ -4,14 +4,22 @@
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
-Hi #agriculture , I'm on @Josh team. We are 4 developers, one in Vietnam and others in India. I'm interested in #agriculture  since most of my country people are farmers producing small-scale products.
+## Why FoodMiles or CSA in general?
+
+> Because it's a solution to secure healthy food sources and shorten food supply-chains
+
+Hi #agriculture and #teaming, I'm on @Josh team. We are 4 developers, one in Vietnam and others in India. I'm interested in #agriculture  since most of my country people are farmers producing small-scale products.
 Despite living in different countries we have the same problem we are facing daily:
 * How to **secure** healthy food sources for us and our families?
 * And how to **shorten** food supply-chains to reduce waste and make them more social and environment friendly?
 
 So when @Josh proposed the [FoodMiles](https://joshpitzalis.svbtle.com/foodmiles) to reduce the distance food needs to travel before it can be consumed, I jumped in immediately.
 
-Turns out that not only developing countris but developed countries facing the same problem too, and they already have a solution for that: named CSA or Community Supported Agriculture. This [paper ](http://urgenci.net/wp-content/uploads/2015/02/PAROT_CASS_ARTICLE_2015.pdf) shows that despite the implementation of CSA soluion can be different from country to country, the principles should be the same.
+Turns out that not only developing countris but developed countries facing the same problem too, and they already have a solution for that: named CSA or Community Supported Agriculture.
+
+## What's CSA?
+
+This [paper ](http://urgenci.net/wp-content/uploads/2015/02/PAROT_CASS_ARTICLE_2015.pdf) shows that despite the implementation of CSA soluion can be different from country to country, the principles should be the same.
  Arcordding to [URGENCI](http://urgenci.net/) - The International Network for Community Supported Agriculture, these principles are:
 
 * __Partnership__: usually formalised as an individual `contract` between each consumer and the producer, and characterised by a `mutual commitment` to supply one another (with money and food) over an extended period of time, beyond any single act of exchange. The contracts, oral or written, last for _several months, a season or a year_.
@@ -22,6 +30,8 @@ Turns out that not only developing countris but developed countries facing the s
 
 * __The producer/consumer tandem__: is based on direct `person-to-person` contact and trust, with no intermediaries or hierarchy.
 
+## Why CSA on Blockchain?
+
 Those principles show that CSA share same characteristics with blockchain:
 * Community driven
 * Peer-to-peer (person-to-person in CSA)
@@ -29,6 +39,8 @@ Those principles show that CSA share same characteristics with blockchain:
 * Trustless (contract & mutual commitment in CSA)
 
 I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
+
+## What I'm looking for?
 
 I'm happy to listen to feedbacks from everybody:
 * To improve and evolve FoodMiles propsal
