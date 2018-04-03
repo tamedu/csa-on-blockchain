@@ -28,7 +28,7 @@ Those principles show that CSA share same characteristics with blockchain:
 * Decentralized (localization of CSA)
 * Trustless (contract & mutual commitment in CSA)
 
-I belive that blockchain is a greate tool to make CSA solution more completed and effecient and apply world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
+I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
 
 I'm happy to listen to feedbacks from everybody:
 * To improve and evolve FoodMiles propsal
