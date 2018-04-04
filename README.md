@@ -48,4 +48,4 @@ I'm happy to listen to feedbacks from everybody:
 * To understand problems CSA's comsumers, producers and communities (as a whole) are facing right now
 * To come up with a better solutions that can apply in reallife situations to help people produce and comsume food healthy, effeciently, social friendly and environment friendly.
 
-We also looking for team-members who interested in our proposal with any but not limited to following skills/experiences: design, supply chain, small-scale farming, financing to join us to build a practical platform. Understanding advantage/limitation of blockchain will be an advantage.
+We also looking for team-members who interested in our proposal with any but not limited to following skills/experiences: design, supply chain, small-scale farming, finance, research ... to join us to build a practical platform. Understanding advantage/limitation of blockchain will be an advantage.
