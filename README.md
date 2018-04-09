@@ -5,7 +5,7 @@
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
-## Why FoodMiles or CSA in general?
+## Why Community Supported Agriculture?
 
 > Because it's a solution to secure healthy food sources and shorten food supply-chains
 
