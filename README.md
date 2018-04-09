@@ -88,7 +88,7 @@ I belive that blockchain is a greate tool to make CSA solution more completed an
 ### We are looking for
 
 I'm happy to listen to feedbacks from everybody:
-* To improve and evolve FoodMiles propsal
+* To improve and evolve FoodMiles proposal
 * To understand problems CSA's comsumers, producers and communities (as a whole) are facing right now
 * To come up with a better solutions that can apply in reallife situations to help people produce and comsume food healthy, effeciently, social friendly and environment friendly.
 
