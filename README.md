@@ -6,6 +6,7 @@
 -->
 <!-- TOC START min:2 max:3 link:true update:true -->
 - [Purpose](#purpose)
+- [About me](#about-me)
 - [Code of conducts](#code-of-conducts)
 - [Proposal for BSIC - Decentralized Impact Incubator](#proposal-for-bsic---decentralized-impact-incubator)
   - [Why Community Supported Agriculture?](#why-community-supported-agriculture)
@@ -19,6 +20,18 @@
 ## Purpose
 
 Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
+
+## About me
+
+I have been programming for more than 20 years, had been an academy researcher in Natural Language Processing, CEO/CTO/programmer for web/mobile/game softwares. I retired at the age of 35, went to country-side and learning to be a farmer. Reason: _I sat too much in front of computers and it was not good for my health_.
+
+The more I know about mordern farming/agriculture, the more I don't belive it won't solve both environment reservation and food secure problems
+(watch
+[EARTH FROM ABOVE > EPISODE 5: 6 BILLION MEN TO FEED](http://www.yannarthusbertrand.org/en/films-tv/earth-from-above/episode-5-6-milliards-dhommes-a-nourrir) to find out).
+
+The answer is coming-back to farming agriculture methods: [natural farming](https://www.youtube.com/watch?v=nzs8iFGNdBo) / [permaculture food forest](https://www.youtube.com/watch?v=6GJFL0MD9fc) / [agroforestry](https://www.youtube.com/watch?v=gSPNRu4ZPvE) ...
+
+I would like to use my programming skill to support me as-a-future-farmer, my farmer fellows in Vietnam and the natural farmming communities in general.
 
 ## Code of conducts
 
