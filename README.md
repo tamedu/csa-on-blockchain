@@ -26,7 +26,7 @@ Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __
 
 Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA movement - did not say anything about fighting big bad corps but concentrating on the __inner peace & strength__ of the community. It talked about mutual assistance, mutual concession, deepening friendly relationships, self-distribution, democratic management, learning, and steady development.
 
-*I will not do anything that violate or drift away from those core principles*
+**_I will not do anything that violate or drift away from those core principles_**
 
 ## Proposal for BSIC - Decentralized Impact Incubator
 * https://www.blockchainforsocialimpact.com/
