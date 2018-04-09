@@ -8,10 +8,10 @@
 - [Purpose](#purpose)
 - [Code of conducts](#code-of-conducts)
 - [Proposal for BSIC - Decentralized Impact Incubator](#proposal-for-bsic---decentralized-impact-incubator)
-- [Why Community Supported Agriculture?](#why-community-supported-agriculture)
-- [What's CSA?](#whats-csa)
-- [Why CSA on Blockchain?](#why-csa-on-blockchain)
-- [We are looking for](#we-are-looking-for)
+  - [Why Community Supported Agriculture?](#why-community-supported-agriculture)
+  - [What's CSA?](#whats-csa)
+  - [Why CSA on Blockchain?](#why-csa-on-blockchain)
+  - [We are looking for](#we-are-looking-for)
 
 <!-- TOC END -->
 
@@ -35,7 +35,7 @@ Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA mo
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
-## Why Community Supported Agriculture?
+### Why Community Supported Agriculture?
 
 > Because it's a solution to secure healthy food sources and shorten food supply-chains
 
@@ -48,7 +48,7 @@ So when @Josh proposed the [FoodMiles](https://joshpitzalis.svbtle.com/foodmiles
 
 Turns out that not only developing countris but developed countries facing the same problem too, and they already have a solution for that: named CSA or Community Supported Agriculture.
 
-## What's CSA?
+### What's CSA?
 
 This [paper ](http://urgenci.net/wp-content/uploads/2015/02/PAROT_CASS_ARTICLE_2015.pdf) shows that despite the implementation of CSA soluion can be different from country to country, the principles should be the same.
  Arcordding to [URGENCI](http://urgenci.net/) - The International Network for Community Supported Agriculture, these principles are:
@@ -61,7 +61,7 @@ This [paper ](http://urgenci.net/wp-content/uploads/2015/02/PAROT_CASS_ARTICLE_2
 
 * __The producer/consumer tandem__: is based on direct `person-to-person` contact and trust, with no intermediaries or hierarchy.
 
-## Why CSA on Blockchain?
+### Why CSA on Blockchain?
 
 Those principles show that CSA share same characteristics with blockchain:
 * Community driven
@@ -71,7 +71,7 @@ Those principles show that CSA share same characteristics with blockchain:
 
 I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
 
-## We are looking for
+### We are looking for
 
 I'm happy to listen to feedbacks from everybody:
 * To improve and evolve FoodMiles propsal
