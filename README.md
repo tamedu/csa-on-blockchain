@@ -1,3 +1,16 @@
+# CSA on Blockchain
+
+## Purpose
+Use __Solidary Contracts__ + __Transparent Data__ + __Good-habit Incentivizing__ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically
+
+## Code of conducts
+
+Look at [Principles of Teikei](http://urgenci.net/principles-of-teikei) (JAPAN ORGANlC AGRICULTURE ASSOCIATION, NOVEMBER 1978). 
+
+Teikei - the father of today worldwide CSA movement I believe - did not say anything about fighting big bad corps but concentrating on the __inner peace & strength__ of the community. It talked about mutual assistance, mutual concession, deepening friendly relationships, self-distribution, democratic management, learning, and steady development.
+
+*I would like not do anything that violate or drift away from those core principles*
+
 ## Proposal for BSIC - Decentralized Impact Incubator
 * https://www.blockchainforsocialimpact.com/
 * https://bsicimpactincubator.slack.com/
