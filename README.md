@@ -8,7 +8,7 @@ Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __
 
 Look at [Principles of Teikei](http://urgenci.net/principles-of-teikei) (JAPAN ORGANlC AGRICULTURE ASSOCIATION, NOVEMBER 1978). 
 
-Teikei - [the original](http://urgenci.net/csa-history/) of today worldwide CSA movement - did not say anything about fighting big bad corps but concentrating on the __inner peace & strength__ of the community. It talked about mutual assistance, mutual concession, deepening friendly relationships, self-distribution, democratic management, learning, and steady development.
+Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA movement - did not say anything about fighting big bad corps but concentrating on the __inner peace & strength__ of the community. It talked about mutual assistance, mutual concession, deepening friendly relationships, self-distribution, democratic management, learning, and steady development.
 
 *I will not do anything that violate or drift away from those core principles*
 
