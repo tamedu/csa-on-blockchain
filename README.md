@@ -1,12 +1,28 @@
 # CSA on Blockchain
 
+**Table of Content**
+<!-- https://atom.io/packages/markdown-toc-auto
+`cmd-shift-p` to open command-palette, invoke "Markdown Toc Auto: Insert Toc".
+-->
+<!-- TOC START min:2 max:3 link:true update:true -->
+- [Purpose](#purpose)
+- [Code of conducts](#code-of-conducts)
+- [Proposal for BSIC - Decentralized Impact Incubator](#proposal-for-bsic---decentralized-impact-incubator)
+- [Why Community Supported Agriculture?](#why-community-supported-agriculture)
+- [What's CSA?](#whats-csa)
+- [Why CSA on Blockchain?](#why-csa-on-blockchain)
+- [We are looking for](#we-are-looking-for)
+
+<!-- TOC END -->
+
+
 ## Purpose
 
 Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
 
 ## Code of conducts
 
-Look at [Principles of Teikei](http://urgenci.net/principles-of-teikei) (JAPAN ORGANlC AGRICULTURE ASSOCIATION, NOVEMBER 1978). 
+[Principles of Teikei](http://urgenci.net/principles-of-teikei) (JAPAN ORGANlC AGRICULTURE ASSOCIATION, NOVEMBER 1978).
 
 Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA movement - did not say anything about fighting big bad corps but concentrating on the __inner peace & strength__ of the community. It talked about mutual assistance, mutual concession, deepening friendly relationships, self-distribution, democratic management, learning, and steady development.
 
@@ -55,7 +71,7 @@ Those principles show that CSA share same characteristics with blockchain:
 
 I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied world-wide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France.
 
-## What we are looking for?
+## We are looking for
 
 I'm happy to listen to feedbacks from everybody:
 * To improve and evolve FoodMiles propsal
