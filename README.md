@@ -31,6 +31,8 @@ Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA mo
 ## Proposal for BSIC - Decentralized Impact Incubator
 * https://www.blockchainforsocialimpact.com/
 * https://bsicimpactincubator.slack.com/
+* https://paper.dropbox.com/doc/Weekly-checkpoints-09FvI6B1wAuT7qqVvw7kz
+* https://workflowy.com/s/C_Yv.YUjxnt5doU
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
