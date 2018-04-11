@@ -11,9 +11,9 @@
 - [Code of conducts](#code-of-conducts)
 - [Why Community Supported Agriculture?](#why-community-supported-agriculture)
 - [What's CSA?](#whats-csa)
-- [Why on Blockchain?](#why-on-blockchain)
+- [Why blockchain?](#why-on-blockchain)
 - [Blockchain barriers](#blockchain-barriers)
-- [Essential Metrics](#essential-metrics)
+- [Essential metrics](#essential-metrics)
 - [Implementations](#implementations)
     - [The Local Food Project](#the-local-food-project)
 
@@ -54,7 +54,7 @@ Because it's a solution to secure healthy food sources, shorten food supply-chai
 ## What's CSA?
 See [localfoodproject.md#whats-csa](./localfoodproject.md#whats-csa)
 
-## Why on Blockchain?
+## Why blockchain?
 
 I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied worldwide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France. Hence, smart contract can solve it seemlessly and univerally.
 
@@ -79,14 +79,33 @@ What if ethers go down to zero? In this case I think the whole system stop and w
 
 Whatever happen, I would like to implement some scheme of fail safe to make people feel secure enough to use CSA-on-Blockchain.
 
-## Essential Metrics
+## Essential metrics
 By using transparent data collected by the platform. We could come up with some essential metrics to make sure we are running platform in the right direction.
 
-For example, the platform can measure the distance foods need to travel from farm to table. CSA promoting localization so Avergage Farm-to-Table Distance (AFTD) should be smaller and smaller if we run the platform well.
+For example, the platform can measure the distance foods need to travel from farm to table. CSA promoting localization so we expect Avergage Farm-to-Table Distance (AFTD) should be smaller if we run the platform well.
 
-But later, when more consumers joined, the AFTD increasing. It's time to look deep in to the data and do customer surveys to find out WHY.
+But later, when more and more consumers joined, the AFTD increasing. It's time to look deep in to the data and do customer surveys to find out WHY.
 
 The reason behind should be local consumers have other choices or the (far away) city consumers need the foods the most ...
+
+AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA.
+
+### Consumer-Produce Relationship Metrics
+
+#### Consumer-Produce Relationship Quality (CPRQ) Metric
+
+#### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
+
+### Localization Metrics
+
+### Avergage Farm-to-Table Distance (AFTD) Metric
+Explained above
+
+### Social Impact Metrics
+
+### Environmental Impact Metrics
+
+They can be a combination of total carbon reduction and plus others _(need to find out more relevant metrics)_
 
 ## Implementations
 Despite the principles are the same, implementations are vary from country to country or even region to region. The platfrom (csa-on-blockchain) should have multiple implementation schemes, let communities choose the one that suitable for them, and listen to the communities to enhance existing ones / or add more.
