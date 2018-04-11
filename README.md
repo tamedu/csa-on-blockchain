@@ -63,7 +63,11 @@ Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA mo
 Because it's a solution to secure healthy food sources, shorten food supply-chains and encourage farmers follow natural-farming methods that already be implemented in Japan (since 1973), US (1980s), France (2001) and many other countries.
 
 ## What's CSA?
-See [localfoodproject.md#whats-csa](./localfoodproject.md#whats-csa)
+> "Community supported agriculture (CSA) is a partnership between farmers and consumers in which the **responsibilities**, **risks** and **rewards** of farming are shared." [[1]](https://communitysupportedagriculture.org.uk/what-is-csa/)
+
+This rather minimalist but efficient definition opens up a large range of formal variations. Indeed, although their principles are similar, CSA farms and support groups in the various parts of Europe operate on the basis of various different models. These variations are largely based on the social, agricultural and economic specificities of each country or region where they have developed. [[2]](http://urgenci.net/wp-content/uploads/2015/02/PAROT_CASS_ARTICLE_2015.pdf)
+
+More at [localfoodproject.md#whats-csa](./localfoodproject.md#whats-csa)
 
 ## Why blockchain?
 
@@ -130,32 +134,32 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 
 #### Consumer-Produce Bonding
 ##### Consumer-Produce Relationship Quality (CPRQ) Metric
-[TODO] Think/find a way to estimate CPRQ
+[ ] Think/find a way to estimate CPRQ
 ##### Consumer-Produce Collaboration Effort (CPCE) Metric
-[TODO] Think/find a way to estimate CPCE
-##### Consumer-Produce Risk Sharing Benefit (CPRSB) Metric
-[TODO] Think/find a way to estimate CPRSB
+[ ] Think/find a way to estimate CPCE
+##### Consumer-Produce Risk & Reward Sharing Benefit (RRSB) Metric
+[ ] Think/find a way to estimate CPRSB
 
 #### Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
-[TODO] Think/find more Localization Metrics
+[ ] Think/find more Localization Metrics
 
 ### Metrics to Evaluate CSA Impact (for outsiders)
 
 Mostly be used to outsiders to consider if CSA is good enough for them. And hopfully they will recognized the need of CSA & natural-farming movement and reward it accordingly.
 
 #### Social Impact
-[TODO] Think/find Social Impact Metrics
+[ ] Think/find Social Impact Metrics
 
 #### Environmental Impact
-[TODO] Think/find Environmental Impact Metrics
+[ ] Think/find Environmental Impact Metrics
 
 It can be a combination of total carbon reduction and plus others
 
 ##### Total Carbon Reduction (TCR) Metric
-[TODO] Think/find a way to estimate TCR
+[ ] Think/find a way to estimate TCR
 
 ## Implementations
 Despite the principles are the same, implementations are vary from country to country or even region to region. The platfrom (csa-on-blockchain) should have multiple implementation schemes, let communities choose the one that suitable for them, and listen to the communities to enhance existing ones / or add more.
