@@ -14,14 +14,14 @@
 - [Why blockchain?](#why-blockchain)
 - [Blockchain barriers](#blockchain-barriers)
 - [Essential metrics](#essential-metrics)
-  - [Consumer-Produce Relationship Metrics](#consumer-produce-relationship-metrics)
+  - [1. Consumer-Produce Bonding](#1-consumer-produce-bonding)
     - [Consumer-Produce Relationship Quality (CPRQ) Metric](#consumer-produce-relationship-quality-cprq-metric)
     - [Consumer-Produce Risk and Benefit Sharing (CPRB) Metric](#consumer-produce-risk-and-benefit-sharing-cprb-metric)
-  - [Localization Metrics](#localization-metrics)
+  - [2. Localization](#2-localization)
     - [Avergage Farm-to-Table Distance (AFTD) Metric](#avergage-farm-to-table-distance-aftd-metric)
-  - [Social Impact Metrics](#social-impact-metrics)
-  - [Environmental Impact Metrics](#environmental-impact-metrics)
-    - [Carbon Reduction Metric](#carbon-reduction-metric)
+  - [3. Social Impact](#3-social-impact)
+  - [4. Environmental Impact](#4-environmental-impact)
+    - [Total Carbon Reduction (TCR) Metric](#total-carbon-reduction-tcr-metric)
 - [Implementations](#implementations)
   - [The Local Food Project](#the-local-food-project)
 
@@ -97,27 +97,28 @@ But later, when more and more consumers joined, the AFTD increasing. It's time t
 
 The reason behind should be local consumers have other choices or the (far away) city consumers need the foods the most ...
 
-AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA.
+AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA. I divided metrics into four categories.
 
-### Consumer-Produce Relationship Metrics
+### 1. Consumer-Produce Bonding
 #### Consumer-Produce Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
 #### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
 [TODO] Think/find a way to estimate CPRB
 
-### Localization Metrics
+### 2. Localization
 #### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
 [TODO] Think/find more Localization Metrics
 
-### Social Impact Metrics
+### 3. Social Impact
 [TODO] Think/find Social Impact Metrics
 
-### Environmental Impact Metrics
+### 4. Environmental Impact
 They can be a combination of total carbon reduction and plus others
-#### Carbon Reduction Metric
 [TODO] Think/find Environmental Impact Metrics
+#### Total Carbon Reduction (TCR) Metric
+[TODO] Think/find a way to estimate TCR
 
 ## Implementations
 Despite the principles are the same, implementations are vary from country to country or even region to region. The platfrom (csa-on-blockchain) should have multiple implementation schemes, let communities choose the one that suitable for them, and listen to the communities to enhance existing ones / or add more.
