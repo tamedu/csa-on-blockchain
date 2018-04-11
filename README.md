@@ -113,12 +113,12 @@ To very specific questions
 ### Why some of metrics are essential and some are not?
 The anwer is depend on use-cases and people needs.
 
-For example, while driving a car, I regularly check (r) remain gasoline, (v) current velocity, and (d) total traved distance. That my three essential metrics while driving. If one of them is wrong or broken, it may let me run in to "an unsafe situation":
+For example, while driving a car, I regularly check (g) remain gasoline, (v) current velocity, and (d) total traved distance. That my three essential metrics while driving. If one of them is wrong or broken, it may let me run in to "an unsafe situation":
 * Drive above allowed speed
 * Not enough gasoline to reach the next gas situation
 * Violate my rule "take a break every 200km traved"
 
-If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (r) remain gasoline while walking? :)
+If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (g) gasoline while walking? :)
 
 ### Metrics to Run a CSA Effectively (for insiders)
 
