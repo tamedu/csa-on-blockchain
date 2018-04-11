@@ -14,14 +14,13 @@
 - [Why blockchain?](#why-blockchain)
 - [Blockchain barriers](#blockchain-barriers)
 - [Essential metrics](#essential-metrics)
-  - [1. Consumer-Produce Bonding](#1-consumer-produce-bonding)
-    - [Consumer-Produce Relationship Quality (CPRQ) Metric](#consumer-produce-relationship-quality-cprq-metric)
-    - [Consumer-Produce Risk and Benefit Sharing (CPRB) Metric](#consumer-produce-risk-and-benefit-sharing-cprb-metric)
-  - [2. Localization](#2-localization)
-    - [Avergage Farm-to-Table Distance (AFTD) Metric](#avergage-farm-to-table-distance-aftd-metric)
-  - [3. Social Impact](#3-social-impact)
-  - [4. Environmental Impact](#4-environmental-impact)
-    - [Total Carbon Reduction (TCR) Metric](#total-carbon-reduction-tcr-metric)
+  - [Why metrics?](#why-metrics)
+  - [Why some of metrics are essential and some are not?](#why-some-of-metrics-are-essential-and-some-are-not)
+  - [Metrics to Run CSA Effectively](#metrics-to-run-csa-effectively)
+    - [1. Consumer-Produce Bonding](#1-consumer-produce-bonding)
+    - [2. Localization](#2-localization)
+    - [3. Social Impact](#3-social-impact)
+    - [4. Environmental Impact](#4-environmental-impact)
 - [Implementations](#implementations)
   - [The Local Food Project](#the-local-food-project)
 
@@ -84,40 +83,66 @@ It can be solved easily. In Vietnam, old-school farmers use only cash, no bank a
 
 Second barrier is the trust on Ethereum and crytocurrency in general. People trust USD and use USD to estimate the cost, negotiate the prices ... What if after they transfer money to the contract ethers go down, a lot?
 
-What if ethers go down to zero? In this case I think the whole system stop and we are on crisis, since all money gone !!! How should I handle this situation ???
+What if ethers go down to zero? In this case I think the whole system stop and we are on crisis, since all money gone !!! How should we handle this situation ???
 
 Whatever happen, I would like to implement some scheme of fail safe to make people feel secure enough to use CSA-on-Blockchain.
 
 ## Essential metrics
+### Why metrics?
+Metrics based on **correct** and **transpent** data are great tools to do **accounting** to anwer any "**how** questions".
+
+From general questions
+* How long did we travel?
+* How many people in the world?
+* ...
+
+To very specific questions
+* How many comsumers have been active in recent month?
+* How do I know csa-on-blockchain platform is useful for me?
+* How shorten the platform did compare to current food supply chains?
+* ...
+
+### Why some of metrics are essential and some are not?
+The anwer is depend on use-cases and people needs.
+
+For example, while driving a car, I regularly check (r) remain gasoline, (v) current velocity, and (d) total traved distance. That my three essential metrics while drivng. If one of them was wrong or broken, I may let me run in to "an unsafe situation":
+* Drive above allowed speed
+* Not enough gasoline to reach the next gas situation
+* Violate my rule "take a break every 200km traved"
+
+If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (r) remain gasoline while walking? :)
+
+### Metrics to Run CSA Effectively
+
 By using transparent data collected by the platform. We could come up with some essential metrics to make sure we are running platform in the right direction.
 
 For example, the platform can measure the distance foods need to travel from farm to table. CSA promoting localization so we expect Avergage Farm-to-Table Distance (AFTD) should be smaller if we run the platform well.
 
 But later, when more and more consumers joined, the AFTD increasing. It's time to look deep in to the data and do customer surveys to find out WHY.
 
-The reason behind should be local consumers have other choices or the (far away) city consumers need the foods the most ...
+The reason behind should be local consumers have other choices or (far away) city consumers need the foods the most ...
 
 AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA. I divided metrics into four categories.
 
-### 1. Consumer-Produce Bonding
-#### Consumer-Produce Relationship Quality (CPRQ) Metric
+#### 1. Consumer-Produce Bonding
+##### Consumer-Produce Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
-#### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
+##### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
 [TODO] Think/find a way to estimate CPRB
 
-### 2. Localization
-#### Avergage Farm-to-Table Distance (AFTD) Metric
+#### 2. Localization
+##### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
 [TODO] Think/find more Localization Metrics
 
-### 3. Social Impact
+#### 3. Social Impact
 [TODO] Think/find Social Impact Metrics
 
-### 4. Environmental Impact
+#### 4. Environmental Impact
 They can be a combination of total carbon reduction and plus others
 [TODO] Think/find Environmental Impact Metrics
-#### Total Carbon Reduction (TCR) Metric
+##### Total Carbon Reduction (TCR) Metric
 [TODO] Think/find a way to estimate TCR
 
 ## Implementations
