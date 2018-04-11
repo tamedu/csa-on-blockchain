@@ -32,7 +32,7 @@
 Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
 
 ## About me
-I have been programming for more than 20 years, had been an academy researcher in Natural Language Processing, lead/developed many web/mobile/game softwares. I retired at the age of 35, went to country-side and learning to be a farmer. Reason: _I sat too much in front of computers and it was not good for my health_.
+I have been programming for more than 20 years, had been an academy researcher in Natural Language Processing, then lead/developed many web/mobile/game softwares. I retired at the age of 35, went to country-side and learning to be a farmer. Reason: _I sat too much in front of computers and it was not good for my health_.
 
 ### Why am I doing this?
 The more I know about mordern farming/agriculture, the more I don't belive it won't solve both environment reservation and food secure problems
@@ -127,8 +127,8 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 #### 1. Consumer-Produce Bonding
 ##### Consumer-Produce Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
-##### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
-[TODO] Think/find a way to estimate CPRB
+##### Consumer-Produce Risk and Benefit Sharing (CPRBS) Metric
+[TODO] Think/find a way to estimate CPRBS
 
 #### 2. Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
@@ -140,8 +140,10 @@ Explained above
 [TODO] Think/find Social Impact Metrics
 
 #### 4. Environmental Impact
-They can be a combination of total carbon reduction and plus others
 [TODO] Think/find Environmental Impact Metrics
+
+It can be a combination of total carbon reduction and plus others
+
 ##### Total Carbon Reduction (TCR) Metric
 [TODO] Think/find a way to estimate TCR
 
