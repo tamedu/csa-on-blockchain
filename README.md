@@ -37,13 +37,15 @@ I have been programming for more than 20 years, had been an academy researcher i
 ### Why am I doing this?
 The more I know about mordern farming/agriculture, the more I don't belive it won't solve both environment reservation and food secure problems
 (watch
-[EARTH FROM ABOVE > EPISODE 5: 6 BILLION MEN TO FEED](http://www.yannarthusbertrand.org/en/films-tv/earth-from-above/episode-5-6-milliards-dhommes-a-nourrir) to find out).
+[EARTH FROM ABOVE > EPISODE 5: 6 BILLION MEN TO FEED](http://www.yannarthusbertrand.org/en/films-tv/earth-from-above/episode-5-6-milliards-dhommes-a-nourrir) to find out. Video tiếng Việt: [Nông nghiệp nào để nuôi 6 tỉ người?](https://www.youtube.com/watch?v=lXzXAnhqUZo)).
 
 The answer is coming-back to tranditional farming methods:
 * [natural farming](https://www.youtube.com/watch?v=nzs8iFGNdBo)
 * [permaculture food forest](https://www.youtube.com/watch?v=6GJFL0MD9fc)
 * [agroforestry](https://www.youtube.com/watch?v=gSPNRu4ZPvE)
 * and more ...
+
+Video tiếng Việt: [Người nông dân sinh thái: Mắt xích cho một xã hội lành mạnh](https://www.youtube.com/watch?v=A1YaF3VGUVo)
 
 > Note: I would like to use the term **natural-farming** to mean all of those tranditional farming methods.
 
