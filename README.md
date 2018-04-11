@@ -128,8 +128,10 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 #### 1. Consumer-Produce Bonding
 ##### Consumer-Produce Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
-##### Consumer-Produce Risk and Benefit Sharing (CPRBS) Metric
-[TODO] Think/find a way to estimate CPRBS
+##### Consumer-Produce Collaboration Effort (CPCE) Metric
+[TODO] Think/find a way to estimate CPCE
+##### Consumer-Produce Risk Sharing Benefit (CPRSB) Metric
+[TODO] Think/find a way to estimate CPRSB
 
 #### 2. Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
