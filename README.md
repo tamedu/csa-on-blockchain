@@ -89,11 +89,12 @@ Whatever happen, I would like to implement some scheme of fail safe to make peop
 
 ## Essential metrics
 ### Why metrics?
-Metrics based on **correct** and **transpent** data are great tools to do **accounting** to anwer any "**how** questions".
+Metrics based on **correct** and **transpent** data are great tools to do **accounting** to anwer any _"quantitative/qualitative **how** questions"_.
 
 From general questions
-* How long did we travel?
+* How long did he travel?
 * How many people in the world?
+* How good/bad am I?
 * ...
 
 To very specific questions
