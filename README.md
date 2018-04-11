@@ -53,7 +53,18 @@ The advantage of blockchain can bring to CSA could be:
 
 We can come up with unlimited, creative solutions to strengthen **solidary** and **incentive good habits**. It's the most fun of writing the smart contracts I guest.
 
-## Metrics
+## Blockchain barriers
+
+Farmers don't know how to use metamask, buy ethers ...
+It can be solved easily. In Vietnam, old-school farmers use only cash, no bank accounts. So when I want to buy from him remotely, I often ask him that does his son/daughter has bank account? can I send the money to him then you send products to me? Same solution here, we can ask farmer relative to handle metamask/ethers for him, and we have a technical support team to help them do that.
+
+Second barrier is the trust on Ethereum and crytocurrency in general. People trust USD and use USD to estimate the cost, negotiate the prices ... What if after they transfer money to the contract ethers go down, a lot?
+
+What if ethers go down to zero? In this case I think the whole system stop and we are on crisis, since all money gone !!! How should I handle this situation ???
+
+Whatever happen, I would like to implement some scheme of fail safe to make people feel secure enough to use CSA-on-Blockchain.
+
+## Essential Metrics
 By using transparent data collected by the platform. We could come up with some essential metrics to make sure we are running platform in the right direction.
 
 For example, the platform can measure the distance foods need to travel from farm to table. CSA promoting localization so Avergage Farm-to-Table Distance (AFTD) should be smaller and smaller if we run the platform well.
