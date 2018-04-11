@@ -92,7 +92,7 @@ Whatever happen, I would like to implement some scheme of fail safe to make peop
 
 ## Essential metrics
 ### Why metrics?
-Metrics based on **correct** and **transpent** data are great tools to do **accounting** to anwer any _"quantitative/qualitative **how** questions"_.
+Metrics based on **correct** and **transpent** data are great tools to do **accounting** to anwer any _"quantitative/qualitative **how** questions"_ that is a good way to _"keep every stakeholders on-the-same-page"_.
 
 From general questions
 * How long did he travel?
