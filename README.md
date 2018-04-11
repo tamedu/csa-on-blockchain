@@ -46,7 +46,7 @@ The answer is coming-back to tranditional farming methods:
 * [agroforestry](https://www.youtube.com/watch?v=gSPNRu4ZPvE)
 * and more ...
 
-> _note_: I would like to use the term natural-farming to mean all of those tranditional farming methods)
+> Note: I would like to use the term **natural-farming** to mean all of those tranditional farming methods.
 
 The natural-farming communities now are small and need support. I would like to use my programming skill to support me as-a-future-farmer, my farmer fellows in Vietnam and the natural farmming communities in general.
 
