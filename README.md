@@ -16,11 +16,12 @@
 - [Essential metrics](#essential-metrics)
   - [Why metrics?](#why-metrics)
   - [Why some of metrics are essential and some are not?](#why-some-of-metrics-are-essential-and-some-are-not)
-  - [Metrics to Run CSA Effectively](#metrics-to-run-csa-effectively)
-    - [1. Consumer-Produce Bonding](#1-consumer-produce-bonding)
-    - [2. Localization](#2-localization)
-    - [3. Social Impact](#3-social-impact)
-    - [4. Environmental Impact](#4-environmental-impact)
+  - [Metrics to Run a CSA Effectively (for insiders)](#metrics-to-run-a-csa-effectively-for-insiders)
+    - [Consumer-Produce Bonding](#consumer-produce-bonding)
+    - [Localization](#localization)
+  - [Metrics to Evaluate CSA Impact (for outsiders)](#metrics-to-evaluate-csa-impact-for-outsiders)
+    - [Social Impact](#social-impact)
+    - [Environmental Impact](#environmental-impact)
 - [Implementations](#implementations)
   - [The Local Food Project](#the-local-food-project)
 
@@ -115,7 +116,7 @@ For example, while driving a car, I regularly check (r) remain gasoline, (v) cur
 
 If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (r) remain gasoline while walking? :)
 
-### Metrics to Run CSA Effectively
+### Metrics to Run a CSA Effectively (for insiders)
 
 By using transparent data collected by the platform. We could come up with some essential metrics to make sure we are running platform in the right direction.
 
@@ -125,9 +126,9 @@ But later, when more and more consumers joined, the AFTD increasing. It's time t
 
 The reason behind should be local consumers have other choices or (far away) city consumers need the foods the most ...
 
-AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA. I divided metrics into four categories.
+AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA.
 
-#### 1. Consumer-Produce Bonding
+#### Consumer-Produce Bonding
 ##### Consumer-Produce Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
 ##### Consumer-Produce Collaboration Effort (CPCE) Metric
@@ -135,16 +136,20 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 ##### Consumer-Produce Risk Sharing Benefit (CPRSB) Metric
 [TODO] Think/find a way to estimate CPRSB
 
-#### 2. Localization
+#### Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
 [TODO] Think/find more Localization Metrics
 
-#### 3. Social Impact
+### Metrics to Evaluate CSA Impact (for outsiders)
+
+Mostly be used to outsiders to consider if CSA is good enough for them. And hopfully they will recognized the need of CSA & natural-farming movement and reward it accordingly.
+
+#### Social Impact
 [TODO] Think/find Social Impact Metrics
 
-#### 4. Environmental Impact
+#### Environmental Impact
 [TODO] Think/find Environmental Impact Metrics
 
 It can be a combination of total carbon reduction and plus others
