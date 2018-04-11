@@ -4,20 +4,29 @@
 `cmd-shift-p` to open command-palette, invoke "Markdown Toc Auto: Insert Toc".
 -->
 **Table of Content**
-<!-- TOC START min:2 max:3 link:true update:true -->
+<!-- TOC START min:2 max:4 link:true update:true -->
 - [Purpose](#purpose)
 - [About me](#about-me)
-- [Why am I doing this?](#why-am-i-doing-this)
+  - [Why am I doing this?](#why-am-i-doing-this)
 - [Code of conducts](#code-of-conducts)
 - [Why Community Supported Agriculture?](#why-community-supported-agriculture)
 - [What's CSA?](#whats-csa)
-- [Why blockchain?](#why-on-blockchain)
+- [Why blockchain?](#why-blockchain)
 - [Blockchain barriers](#blockchain-barriers)
 - [Essential metrics](#essential-metrics)
+  - [Consumer-Produce Relationship Metrics](#consumer-produce-relationship-metrics)
+    - [Consumer-Produce Relationship Quality (CPRQ) Metric](#consumer-produce-relationship-quality-cprq-metric)
+    - [Consumer-Produce Risk and Benefit Sharing (CPRB) Metric](#consumer-produce-risk-and-benefit-sharing-cprb-metric)
+  - [Localization Metrics](#localization-metrics)
+    - [Avergage Farm-to-Table Distance (AFTD) Metric](#avergage-farm-to-table-distance-aftd-metric)
+  - [Social Impact Metrics](#social-impact-metrics)
+  - [Environmental Impact Metrics](#environmental-impact-metrics)
+    - [Carbon Reduction Metric](#carbon-reduction-metric)
 - [Implementations](#implementations)
-    - [The Local Food Project](#the-local-food-project)
+  - [The Local Food Project](#the-local-food-project)
 
 <!-- TOC END -->
+
 
 
 ## Purpose
@@ -91,21 +100,24 @@ The reason behind should be local consumers have other choices or the (far away)
 AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA.
 
 ### Consumer-Produce Relationship Metrics
-
 #### Consumer-Produce Relationship Quality (CPRQ) Metric
-
+[TODO] Think/find a way to estimate CPRQ
 #### Consumer-Produce Risk and Benefit Sharing (CPRB) Metric
+[TODO] Think/find a way to estimate CPRB
 
 ### Localization Metrics
-
-### Avergage Farm-to-Table Distance (AFTD) Metric
+#### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
+[TODO] Think/find more Localization Metrics
+
 ### Social Impact Metrics
+[TODO] Think/find Social Impact Metrics
 
 ### Environmental Impact Metrics
-
-They can be a combination of total carbon reduction and plus others _(need to find out more relevant metrics)_
+They can be a combination of total carbon reduction and plus others
+#### Carbon Reduction Metric
+[TODO] Think/find Environmental Impact Metrics
 
 ## Implementations
 Despite the principles are the same, implementations are vary from country to country or even region to region. The platfrom (csa-on-blockchain) should have multiple implementation schemes, let communities choose the one that suitable for them, and listen to the communities to enhance existing ones / or add more.
