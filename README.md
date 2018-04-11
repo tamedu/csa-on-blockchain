@@ -1,9 +1,24 @@
 # Community-Supported-Agriculture on Blockchain
 
 <!-- https://atom.io/packages/markdown-toc-auto
-**Table of Content**
 `cmd-shift-p` to open command-palette, invoke "Markdown Toc Auto: Insert Toc".
 -->
+**Table of Content**
+<!-- TOC START min:2 max:3 link:true update:true -->
+- [Purpose](#purpose)
+- [About me](#about-me)
+- [Why am I doing this?](#why-am-i-doing-this)
+- [Code of conducts](#code-of-conducts)
+- [Why Community Supported Agriculture?](#why-community-supported-agriculture)
+- [What's CSA?](#whats-csa)
+- [Why on Blockchain?](#why-on-blockchain)
+- [Blockchain barriers](#blockchain-barriers)
+- [Essential Metrics](#essential-metrics)
+- [Implementations](#implementations)
+    - [The Local Food Project](#the-local-food-project)
+
+<!-- TOC END -->
+
 
 ## Purpose
 Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
