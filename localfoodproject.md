@@ -1,23 +1,27 @@
+# The Local Food Project
+
+_Note_: We've changed name of the proposal from FoodMiles to 'Local Food Project'
+
 ## Proposal for BSIC - Decentralized Impact Incubator
 * https://www.blockchainforsocialimpact.com/
 * https://bsicimpactincubator.slack.com/
 * https://paper.dropbox.com/doc/Weekly-checkpoints-09FvI6B1wAuT7qqVvw7kz
+* https://joshpitzalis.svbtle.com/foodmiles
 * https://workflowy.com/s/C_Yv.YUjxnt5doU
 
 Reply to [josh post](https://bsicimpactincubator.slack.com/archives/C9T4UB9BP/p1522668345000123) on slack channel:
 
 ### Why Community Supported Agriculture?
 
-> Because it's a solution to secure healthy food sources and shorten food supply-chains
-
 Hi #agriculture and #teaming, I'm on @Josh team. We are 4 developers, one in Vietnam and others in India. I'm interested in #agriculture  since most of my country people are farmers producing small-scale products.
+
 Despite living in different countries we have the same problem we are facing daily:
 * How to **secure** healthy food sources for us and our families?
 * And how to **shorten** food supply-chains to reduce waste and make them more social and environment friendly?
 
 So when @Josh proposed the [FoodMiles](https://joshpitzalis.svbtle.com/foodmiles) to reduce the distance food needs to travel before it can be consumed, I jumped in immediately.
 
-Turns out that not only developing countris but developed countries facing the same problem too, and they already have a solution for that: named CSA or Community Supported Agriculture.
+Turns out that not only developing countries but developed countries facing the same problem too, and they already have a solution for that: named CSA or Community Supported Agriculture.
 
 ### What's CSA?
 
