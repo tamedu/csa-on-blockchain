@@ -16,7 +16,7 @@
 - [Essential metrics](#essential-metrics)
   - [Why metrics?](#why-metrics)
   - [Why some of metrics are essential and some are not?](#why-some-of-metrics-are-essential-and-some-are-not)
-  - [Metrics for CSA](#metrics-for-csa-on-blockchain)
+  - [Metrics for CSA](#metrics-for-csa)
 - [Implementations](#implementations)
   - [The Local Food Project](#the-local-food-project)
 
