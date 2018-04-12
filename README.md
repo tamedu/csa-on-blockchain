@@ -138,7 +138,10 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 ##### Consumer-Produce Collaboration Effort (CPCE) Metric
 [ ] Think/find a way to estimate CPCE
 ##### Consumer-Produce Risk & Reward Sharing Benefit (RRSB) Metric
+Could be consumer satification + the variety of products producers offered.
+
 [ ] Think/find a way to estimate CPRSB
+
 
 #### Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
@@ -146,6 +149,11 @@ Explained above
 
 [ ] Think/find more Localization Metrics
 
+#### Natural Reservation Effort (for producers)
+
+##### Number of plant types and their varieties
+##### Varierty of plan canopies
+Tài liệu tiếng Việt: [Tán_(sinh_thái)](https://vi.wikipedia.org/wiki/T%C3%A1n_(sinh_th%C3%A1i%29)
 ### Metrics to Evaluate CSA Impact (for outsiders)
 
 Mostly be used to outsiders to consider if CSA is good enough for them. And hopfully they will recognized the need of CSA & natural-farming movement and reward it accordingly.
