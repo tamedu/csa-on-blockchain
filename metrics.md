@@ -1,3 +1,16 @@
+**Table of Content**
+<!-- TOC START min:2 max:4 link:true update:true -->
+  - [Metrics to Run a CSA Effectively (for insiders)](#metrics-to-run-a-csa-effectively-for-insiders)
+    - [Consumer-Produce Bonding](#consumer-produce-bonding)
+    - [Localization](#localization)
+    - [Natural Reservation Effort](#natural-reservation-effort)
+  - [Metrics to Evaluate CSA Impact (for outsiders)](#metrics-to-evaluate-csa-impact-for-outsiders)
+    - [Social Impact](#social-impact)
+    - [Environmental Impact](#environmental-impact)
+
+<!-- TOC END -->
+
+
 ### Metrics to Run a CSA Effectively (for insiders)
 
 By using transparent data collected by the platform. We could come up with some essential metrics to make sure we are running platform in the right direction.
@@ -12,22 +25,22 @@ AFTD is just one example, I would like to find effecient ways to define and esti
 
 #### Consumer-Produce Bonding
 ##### Consumer-Produce Relationship Quality (CPRQ) Metric
-[ ] Think/find a way to estimate CPRQ
+[TODO] Think/find a way to estimate CPRQ
 ##### Consumer-Produce Collaboration Effort (CPCE) Metric
-[ ] Think/find a way to estimate CPCE
+[TODO] Think/find a way to estimate CPCE
 ##### Consumer-Produce Risk & Reward Sharing Benefit (RRSB) Metric
 Could be consumer satification + the variety of products producers offered.
 
-[ ] Think/find a way to estimate CPRSB
+[TODO] Think/find a way to estimate CPRSB
 
 
 #### Localization
 ##### Avergage Farm-to-Table Distance (AFTD) Metric
 Explained above
 
-[ ] Think/find more Localization Metrics
+[TODO] Think/find more Localization Metrics
 
-#### Natural Reservation Effort (for producers)
+#### Natural Reservation Effort
 
 ##### Number of plant types and their varieties
 ##### Varierty of plan canopies
@@ -37,12 +50,12 @@ Tài liệu tiếng Việt: [Tán_(sinh_thái)](https://vi.wikipedia.org/wiki/T%
 Mostly be used to outsiders to consider if CSA is good enough for them. And hopfully they will recognized the need of CSA & natural-farming movement and reward it accordingly.
 
 #### Social Impact
-[ ] Think/find Social Impact Metrics
+[TODO] Think/find Social Impact Metrics
 
 #### Environmental Impact
-[ ] Think/find Environmental Impact Metrics
+[TODO] Think/find Environmental Impact Metrics
 
 It can be a combination of total carbon reduction and plus others
 
 ##### Total Carbon Reduction (TCR) Metric
-[ ] Think/find a way to estimate TCR
+[TODO] Think/find a way to estimate TCR
