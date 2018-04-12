@@ -44,7 +44,7 @@ Explained above
 
 ##### Number of plant types and their varieties
 ##### Varierty of plan canopies
-Tài liệu tiếng Việt: [Tán_(sinh_thái)](https://vi.wikipedia.org/wiki/T%C3%A1n_(sinh_th%C3%A1i%29)
+Tài liệu tiếng Việt: [Tán_(sinh_thái)](https://goo.gl/TLioRd)
 ### Metrics to Evaluate CSA Impact (for outsiders)
 
 Mostly be used to outsiders to consider if CSA is good enough for them. And hopfully they will recognized the need of CSA & natural-farming movement and reward it accordingly.
