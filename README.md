@@ -81,7 +81,7 @@ We can come up with unlimited, creative solutions to strengthen **solidary** and
 ## Blockchain barriers
 
 Farmers don't know how to use metamask, buy ethers ...
-It can be solved easily. In Vietnam, old-school farmers use only cash, no bank accounts. So when I want to buy from him remotely, I often ask him that does his son/daughter has bank account? can I send the money to him then you send products to me? Same solution here, we can ask farmer relative to handle metamask/ethers for him, and we have a technical support team to help them do that.
+It can be solved easily. In Vietnam, old-school farmers use only cash, no bank accounts. So when I want to buy from him remotely, I often ask him that does his son/daughter has bank account? can I send the money to him then you send products to me? Same solution here, we can ask farmer relatives to handle metamask/ethers for him, and we can have a technical support team to help them do that.
 
 Second barrier is the trust on Ethereum and crytocurrency in general. People trust USD and use USD to estimate the cost, negotiate the prices ... What if after they transfer money to the contract ethers go down, a lot?
 
@@ -99,7 +99,7 @@ From general questions
 * How good/bad am I?
 * ...
 
-To very specific questions
+To very specific ones
 * How many comsumers have been active in recent month?
 * How do I know csa-on-blockchain platform is useful for me?
 * How shorten the platform did compare to current food supply chains?
@@ -115,8 +115,10 @@ For example, while driving a car, I regularly check (g) remain gasoline, (v) cur
 
 If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (g) gasoline while walking? :)
 
+And if I'm driving a bus and you are a passenger. You may not care if I exceed the allowed speed or not, you may care the most if I will take you to the right place, on the right time ...
+
 ### Metrics for CSA
-See See [metrics.md](./metrics.md)
+See [metrics.md](./metrics.md)
 
 ## Implementations
 Despite the principles are the same, implementations are vary from country to country or even region to region. The platfrom (csa-on-blockchain) should have multiple implementation schemes, let communities choose the one that suitable for them, and listen to the communities to enhance existing ones / or add more.
