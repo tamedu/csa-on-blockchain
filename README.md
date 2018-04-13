@@ -70,7 +70,7 @@ I belive that blockchain is a greate tool to make CSA solution more completed an
 
 The advantage of blockchain can bring to CSA could be:
 
-* Use smart contracts as a source of trust rather than you have to investiage all producers/all consumers
+* Use smart contracts as a source of trust rather than you have to investigate all producers/all consumers
 
 * Use smart contracts to keep everything fair for all stakeholders automatically and exactly as agreed-from-beginning without worrying that people will forget or make mistake will forget to follow the rules (remove third-party coordinators/arbitrators)
 
