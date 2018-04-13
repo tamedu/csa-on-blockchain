@@ -1,7 +1,7 @@
 **Table of Content**
 <!-- TOC START min:2 max:4 link:true update:true -->
   - [Metrics to Run a CSA Effectively (for insiders)](#metrics-to-run-a-csa-effectively-for-insiders)
-    - [Consumer-Produce Bonding](#consumer-produce-bonding)
+    - [Consumer-Producer Bonding](#consumer-producer-bonding)
     - [Localization](#localization)
     - [Natural Reservation Effort](#natural-reservation-effort)
   - [Metrics to Evaluate CSA Impact (for outsiders)](#metrics-to-evaluate-csa-impact-for-outsiders)
@@ -23,12 +23,12 @@ The reason behind should be local consumers have other choices or (far away) cit
 
 AFTD is just one example, I would like to find effecient ways to define and estimate below metrics that I assumed they are essential to maintain a healthy CSA.
 
-#### Consumer-Produce Bonding
-##### Consumer-Produce Relationship Quality (CPRQ) Metric
+#### Consumer-Producer Bonding
+##### Consumer-Producer Relationship Quality (CPRQ) Metric
 [TODO] Think/find a way to estimate CPRQ
-##### Consumer-Produce Collaboration Effort (CPCE) Metric
+##### Consumer-Producer Collaboration Effort (CPCE) Metric
 [TODO] Think/find a way to estimate CPCE
-##### Consumer-Produce Risk & Reward Sharing Benefit (RRSB) Metric
+##### Consumer-Producer Risk & Reward Sharing Benefit (RRSB) Metric
 Could be consumer satification + the variety of products producers offered.
 
 [TODO] Think/find a way to estimate CPRSB
