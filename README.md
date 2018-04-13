@@ -66,7 +66,7 @@ More at [localfoodproject.md#whats-csa](./localfoodproject.md#whats-csa)
 
 ## Why blockchain?
 
-I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied worldwide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France. Hence, smart contract can solve it seemlessly and univerally.
+I belive that blockchain is a greate tool to make CSA solution more completed and effecient that can be applied worldwide. For example, in France comsumers use cheques to release money monthly to producers. In Vietnam, cheques are not in used and we Vietnamese are lacking of financing tools to do the same thing in France. Hence, smart contract can solve it seemlessly and universally.
 
 The advantage of blockchain can bring to CSA could be:
 
